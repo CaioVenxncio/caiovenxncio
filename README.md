@@ -3,4 +3,4 @@
 - 🎯 Software Engineering student at [FIAP](https://www.fiap.com.br).
 - 🍀 Brazilian, full-stack developer.
 - 👨‍💻 Python, JavaScript, React, and Go.
-- 🎶 Coding while listening to music.
+- 🎶 Listening to music and coding.
